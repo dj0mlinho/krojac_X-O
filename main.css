@@ -22,4 +22,5 @@
   font-size: 4rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   cursor: pointer;
+  user-select: none;
 }
