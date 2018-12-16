@@ -2,17 +2,24 @@
   padding: 0;
   margin: 0;
 }
-.container {
+
+.box {
   margin: 50px auto;
   width: 450px;
   height: 450px;
   box-shadow: 0 0 8px;
   background-color: #eee;
 }
-.box {
+
+.xo {
   width: 150px;
   height: 150px;
   box-sizing: border-box;
   border: 1px solid grey;
   float: left;
+  text-align: center;
+  line-height: 150px;
+  font-size: 4rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  cursor: pointer;
 }
